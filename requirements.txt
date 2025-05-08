@@ -1,0 +1,14 @@
+youtube-transcript-api==1.0.3
+transformers==4.48.1
+torch==2.5.1
+sentence-transformers==3.3.0
+whisper==1.1.10
+scikit-learn==1.6.1
+python-dotenv==0.19.2
+langchain==0.3.20
+parse_llm_code==0.1.31
+langchain-perplexity==0.1.1
+langchain-openai==0.3.16
+scrapetube==2.5.1
+pandas==2.2.3
+langchain-community==0.3.23
